@@ -19,10 +19,10 @@ from sklearn.naive_bayes import GaussianNB <br />
 from sklearn.metrics import accuracy_score <br />
 
 ## Launch
-Add the .ipynb file to:
-/content/drive/MyDrive/MSBA_Colab_2020/ML_Algorithms/CA02/Data
-Add the data to:
-'/content/drive/My Drive/MSBA_Colab_2020/ML_Algorithms/CA02/Data
+Add the .ipynb file to: <br />
+/content/drive/MyDrive/MSBA_Colab_2020/ML_Algorithms/CA02/Data <br />
+Add the data to: <br />
+'/content/drive/My Drive/MSBA_Colab_2020/ML_Algorithms/CA02/Data <br />
 
 ## Author
 Karina Ramirez
