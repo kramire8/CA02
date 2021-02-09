@@ -28,4 +28,4 @@ Add the data to: <br />
 Karina Ramirez
 
 ## Contributors 
-The project was was provided by Dr. Arin Brahma at Loyola Marymount University for the Intro to Machine Learning course. <br />
+This project was provided by Dr. Arin Brahma at Loyola Marymount University for the Intro to Machine Learning course. <br />
